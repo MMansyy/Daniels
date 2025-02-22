@@ -1,0 +1,1 @@
+This is a fully responsive website built using HTML, CSS, and Bootstrap. Designed for modern web standards, it ensures a seamless experience across all devices. The website features a clean and structured layout, optimized for both performance and accessibility.
